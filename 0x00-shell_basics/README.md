@@ -1,2 +1,2 @@
-File-8 To delete the file betty in /tmp/my_first_directory
+File-9 To delete the directory my_first_directory in /tmp directory
 
