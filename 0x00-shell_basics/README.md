@@ -1,2 +1,1 @@
-File 5- displaying directory content in long format with user and group IDS displayed and  hidden files starting with .
-
+File-6 To create a directory named my_first_directory in the /tmp/ directory
