@@ -1,2 +1,2 @@
-Displaying current directory content in a long format
+displaying current directory contents, including hidden files starting with .
 
