@@ -1,1 +1,2 @@
-File-6 To create a directory named my_first_directory in the /tmp/ directory
+File-7 To move the file betty from /tmp/ to /tmp/my_first_directory
+
