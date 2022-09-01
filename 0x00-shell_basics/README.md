@@ -1,2 +1,2 @@
-File-7 To move the file betty from /tmp/ to /tmp/my_first_directory
+File-8 To delete the file betty in /tmp/my_first_directory
 
