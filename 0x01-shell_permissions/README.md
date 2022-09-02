@@ -1,2 +1,2 @@
-File-7 To add execution permission to the owner, the group owner and other users
+File-8 To grant only other users all the permissions
 
