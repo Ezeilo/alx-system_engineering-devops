@@ -1,2 +1,2 @@
-File-1 To print the effective username of the current user
+File-2 To print all the groups the current user  is part of
 
