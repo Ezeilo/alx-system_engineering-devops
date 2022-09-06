@@ -1,2 +1,2 @@
-To Write a script that displays a confused smiley
+To Display the content of the /etc/passwd file
 
