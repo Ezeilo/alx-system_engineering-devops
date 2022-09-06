@@ -1,2 +1,2 @@
-Fie-0 To create an alias having name;ls andvalue;rm *
+File-1 To print hello user, where user is current user
 
