@@ -1,7 +1,8 @@
-File-10 To Write a script that displays the result of BREATH to the power LOVE
+File-11 To Write a script that converts a number from base 2 to base 10.
 
 
 
-BREATH and LOVE are environment variables
+The number in base 2 is stored in the environment variable BINARY
 
-The script should display the result, followed by a new line
+The script should display the number in base 10, followed by a new line
+
