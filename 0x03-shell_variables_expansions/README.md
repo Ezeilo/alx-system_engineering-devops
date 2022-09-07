@@ -1,8 +1,8 @@
-File-6 To Create a script that creates a new local variable.
+File-7 To Create a script that creates a new global variable.
 
 
 
 Name: BEST
 
-Value: School
+Value: Schoo
 
