@@ -1,2 +1,8 @@
-File-5 To list all local vairables and enviromental variables and functions
+File-6 To Create a script that creates a new local variable.
+
+
+
+Name: BEST
+
+Value: School
 
