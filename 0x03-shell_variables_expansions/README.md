@@ -1,2 +1,2 @@
-File-1 To print hello user, where user is current user
+File-2 To Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
