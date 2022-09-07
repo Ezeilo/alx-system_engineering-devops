@@ -1,2 +1,2 @@
-File-3 To Create a script that counts the number of directories in the PATH.
+File-4 To create a script that lists enviromental  variables
 
