@@ -1,2 +1,2 @@
-File-4 To create a script that lists enviromental  variables
+File-5 To list all local vairables and enviromental variables and functions
 
